@@ -76,11 +76,9 @@ http://oleg.fi/graafi/
 
 ### Drivers
 
-* [tylors/cycle-director ★15](https://github.com/TylorS/cycle-director) - Router driver using Director.
 * [cyclejs/cycle-http-driver ★51](https://github.com/cyclejs/http) - A Cycle.js Driver for making HTTP requests, based on superagent.
 * [cyclejs/cycle-storage-driver ★20](https://github.com/cyclejs/cycle-storage-driver) - A Cycle.js Driver for using localStorage and sessionStorage.
 * [cyclejs/cycle-notification-driver ★15](https://github.com/cyclejs/cycle-notification-driver) - A Cycle.js Driver for showing and responding to HTML5 Notifications.
-* [axefrog/cycle-router5 ★28](https://github.com/axefrog/cycle-router5) - A router driver using Router5
 * [cgeorg/cycle-socket.io ★15](https://github.com/cgeorg/cycle-socket.io) - A Cycle driver for Socket.IO clients
 * [**cyclejs/cycle-dom ★141**](https://github.com/cyclejs/dom) - The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers
 * [secobarbital/cycle-fetch-driver ★1](https://github.com/secobarbital/cycle-fetch-driver) - A Cycle.js Driver for making HTTP requests, using the Fetch API.
